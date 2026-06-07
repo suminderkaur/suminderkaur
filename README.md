@@ -10,7 +10,7 @@ I’m passionate about growing in my career, picking up new tech skills, and mak
 * I spend my time querying databases, fixing broken Excel formulas, and tweaking DAX measures until the dashboard looks just right.
 
 ### 🌱 I’m currently learning
-* Advanced DAX, complex SQL joins, and dashboard UI/UX design.
+* Advanced DAX, complex SQL joins.
 
 ### 👯 I’m looking to collaborate on
 * Open-source data analytics projects or building dynamic Power BI dashboards.
