@@ -1,5 +1,5 @@
 ## I am so glad you are here  👋
-I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun). Here, you'll find:
+I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming. Here, you'll find:
 
 - ### 🔭 I’m currently working on 
  Building my core data analytics skills and practicing on real-world datasets.
